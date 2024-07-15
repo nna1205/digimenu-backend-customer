@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/952aea2e-0b78-4753-b1ad-7a4691f834b7/resourceGroups/digimenu-backend-customer_group/providers/Microsoft.Web/sites/digimenu-backend-storefront",
+    "appService.deploySubpath": "."
+}
